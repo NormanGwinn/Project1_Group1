@@ -3,3 +3,4 @@ Project 1, Group 1, for the January to July Cohort of the Data Analytics Boot Ca
 ### Norman was here.
 ### Gini was here.
 ### Jeab was here.
+### Michael was here. 
