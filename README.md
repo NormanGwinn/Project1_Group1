@@ -1,25 +1,30 @@
 # Project1_Group1
 Project 1, Group 1, for the January to July Cohort of the Data Analytics Boot Camp at Rice
-### Norman was here.  704-621-2133 or 832-692-4930
-### Gini was here.  832-870-5800
-### Jeab was here. 412-417-8220
-### Michael was here 713-857-7627 
+Norman Gwinn | Panarat Duke | Michael Heitmann | Gini Arimbi
 
-# Project Title:  Corona Virus Trends
+
+# Project Title: "Covid 19- Who will Suffer the Most?"
+
+## The recent global pandemic on COVID 19 ignites our curiousity in doing research in this field. 
 
 ## Objectives:
-### What is the growth rate?
-* By country?
-* Use relative days; start the day count with the first case in each country
-* John Hopkins GitHub Repository
-* https://github.com/CSSEGISandData/COVID-19.git
-### Where is the virus?
-* Produce a heat map
-* Google Maps API 
-* Maybe just US or Texas
-### Fit a curve to the growth rate, that might be used for predictive purposes
-### Correlate growth rate, or deaths, with
-* Doctors per population (https://www.worldbank.org/)
-* Hospital beds per population (https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?end=2015&start=2015&view=map)
-* Population density (https://www.worldbank.org/)
+### * “Which US states will be the most vulnerable in facing Corona virus cases?”
+###* To obtain growth rate for cases in global, selected countries, and US 
+ * Using linear and exponential plot
+###* Comparing the growth rate to availability of health facility (hospital bed per 1000 person) 
+ * Using heat map and bubble map
+###* Find correlation between infection cases with population density 
+ * Using scatter plot and linear regression 
+
+## Results:
+
+![](images/MapCasesState.PNG)
+### Based on the number of infection cases and availability of hospital bed, we estimate that Washington and California will be the most vulnerable in facing. 
+
+
+##References
+* John Hopkins GitHub Repository : https://github.com/CSSEGISandData/COVID-19.git
+* World Bank : https://data.worldbank.org/indicator/SH.MED.BEDS.ZS
+* KFF : https://www.kff.org/other/state-indicator/beds-by-ownership/?activeTab=map&currentTimeframe=0&selectedDistributions=total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
 
