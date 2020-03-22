@@ -19,11 +19,11 @@
 
 ## Results:
 
-![](ConfirmedCasesForWorldWithFit.PNG)
+![](ConfirmedCasesForWorldWithFit.png)
 
 ### The above graph shows the exponential growth rate for cases globally. 
 
-![](output/Linear_AvgCase_CountryPopulation.PNG)
+![](output/Linear_AvgCase_CountryPopulation.png)
 
 ### The above picture shows the correlation between country population and average of new cases per day. 
 
